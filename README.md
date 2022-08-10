@@ -1,3 +1,6 @@
+[Helm chart]&[Bitnami for Azure Kubernetes Service] Wavefront Adapter for Istio is an adapter for Istio to expose Istio metrics to Wavefront     
+https://artifacthub.io/packages/helm/bitnami-aks/wavefront-adapter-for-istio   
+
 # Wavefront by VMware Adapter for Istio
 
 [![CircleCI](https://img.shields.io/circleci/project/github/vmware/wavefront-adapter-for-istio/master.svg?logo=circleci)](https://circleci.com/gh/vmware/wavefront-adapter-for-istio)
